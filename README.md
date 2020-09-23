@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Sridhar DV </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SRIDHARDV&style=flat-square" alt="SRIDHARDV" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=SRIDHARDV&show_icons=true" alt="SRIDHARDV" /> </p>
